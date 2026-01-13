@@ -1,127 +1,26 @@
-<!-- ================= HERO ================= -->
-<div align="center">
+## Olá, forasteiro(a) 👋
 
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1400&color=0A66C2&center=true&vCenter=true&width=900&lines=Rodrigo+Gandarela;Computer+Engineering+Student;Science+and+Technology+Undergraduate;Hardware+%26+Software+Development"
-    alt="Typing SVG"
-  />
+Eu me chamo Rodrigo e este é o meu perfil!
 
-  <br><br>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=8566ff&color=0C0B12)](https://www.linkedin.com/in/rodrigo-gandarela/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=8566ff&color=0C0B12)](https://www.instagram.com/rodrigo.gandarela/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=8566ff&color=0C0B12)](malito:rodrigogsfduca@gmail.com/)
 
-  <!-- Social -->
-  <a href="https://www.linkedin.com/in/rodrigo-gandarela/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=blue](https://commons.wikimedia.org/wiki/File:LinkedIn_logo_initials.png" />
-  </a>
-  &nbsp;
-  <a href="mailto:rodrigogsfduca@gmail.com">
-    <img src="https://img.shields.io/badge/Email-3A3A3A?style=flat&logo=gmail&logoColor=red" />
-  </a>
+<hr/>
 
-</div>
+### Sobre mim:
 
-<br><br>
+Sou **Engenheiro da Computação** pelo Senai CIMATEC e bacharelando em **Ciência e Tecnologia** pela Universidade Federal da Bahia (UFBA).
 
-<!-- ================= OVERVIEW ================= -->
-<h2 style="color:#0A66C2;">Overview</h2>
+![stats](https://github-readme-stats-f4nzmrgjf-mrxacx.vercel.app/api?username=rodrigogduca&count_private=true&theme=transparent&show_icons=true&card_width=500px&border_color=8566ff&title_color=8566ff&icon_color=8566ff&text_color=e4e2e2&rank_icon=github&text_bold=false&hide=stars)
 
-<p>
-Undergraduate student in <b>Computer Engineering</b> at <b>SENAI CIMATEC</b> and
-<b>Science and Technology</b> at <b>UFBA</b>.
-</p>
+![wakatime](https://wakatime.com/badge/user/8waka_e74b58b0-6ad3-4572-be4a-25834efaacaa.svg)
+![codewars](https://www.codewars.com/users/rodrigogduca/badges/micro)
 
-<p>
-Focused on <b>software development</b>, <b>hardware</b>, <b>embedded systems</b>
-and <b>engineering problem solving</b>.
-</p>
+<hr/>
 
-<hr>
+### Tecnologias:
 
-<!-- ================= TECH STACK ================= -->
-<h2 style="color:#0A66C2;">Technologies & Tools</h2>
+Tenho aptidão no uso de Python com Django e Flask, mas também tenho prática no uso de HTML, CSS, Javascript.
 
-<p><b>Programming & Systems</b></p>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,git,linux,arduino&theme=dark" />
-</div>
-
-<br>
-
-<p><b>Design & Visual</b></p>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ps,canva,figma&theme=dark" />
-</div>
-
-<hr>
-
-<!-- ================= METRICS ================= -->
-<h2 style="color:#0A66C2;">Metrics & Insights</h2>
-
-<div align="center">
-  <img 
-    src="https://metrics.lecoq.io/Rodre?template=classic&languages=1&activity=1&repositories=1&config.timezone=America/Sao_Paulo"
-  />
-</div>
-
-<hr>
-
-<!-- ================= GITHUB STATS ================= -->
-<h2 style="color:#0A66C2;">GitHub Activity</h2>
-
-<div align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=Rodre&theme=flat&no-frame=true&row=1&column=6"
-  />
-</div>
-
-<br>
-
-<div align="center">
-  <img 
-    height="160em"
-    src="https://github-readme-streak-stats.herokuapp.com?user=Rodre&theme=github-dark-blue&hide_border=true"
-  />
-  &nbsp;&nbsp;
-  <img 
-    height="160em"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rodre&theme=github_dark"
-  />
-</div>
-
-<hr>
-
-<!-- ================= ACTIVITY GRAPH ================= -->
-<h2 style="color:#0A66C2;">Contribution Graph</h2>
-
-<div align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Rodre&bg_color=0d1117&color=0A66C2&line=58a6ff&point=ffffff&hide_border=true"
-  />
-</div>
-
-<hr>
-
-<!-- ================= VISITORS ================= -->
-<div align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=Rodre&color=0A66C2&style=flat"
-    alt="Profile views"
-  />
-</div>
-
-<br>
-
-<!-- ================= FOOTER ================= -->
-<div align="center">
-
-  <img 
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-    alt="Contribution animation"
-  />
-
-  <br>
-
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=110&section=footer"
-  />
-
-</div>
+![Most used languages](https://github-readme-stats-f4nzmrgjf-mrxacx.vercel.app//api/top-langs/?username=rodrigogduca&count_private=true&theme=transparent&layout=compact&langs_count=6&hide=c%2B%2B,cmake,swift,kotlin,objective-c&card_width=500px&border_color=8566ff&title_color=8566ff&icon_color=8566ff&text_color=e4e2e2)
