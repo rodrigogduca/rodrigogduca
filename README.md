@@ -14,6 +14,7 @@ Sou **Engenheiro da Computação** pelo Senai CIMATEC e bacharelando em **Ciênc
 
 ![stats](https://github-readme-stats-f4nzmrgjf-mrxacx.vercel.app/api?username=rodrigogduca&count_private=true&theme=transparent&show_icons=true&card_width=500px&border_color=8566ff&title_color=8566ff&icon_color=8566ff&text_color=e4e2e2&rank_icon=github&text_bold=false&hide=stars)
 
+![wakatime](https://wakatime.com/badge/user/df5e874b-be5f-4962-b497-d34b3e394f5c.svg)
 ![codewars](https://www.codewars.com/users/rodrigogduca/badges/micro)
 
 <hr/>
