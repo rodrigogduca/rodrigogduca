@@ -9,7 +9,7 @@
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rodrigo--gandarela-8566FF?style=for-the-badge&labelColor=0D1117)](https://www.linkedin.com/in/rodrigo-gandarela)
-[![Instagram](https://img.shields.io/badge/Instagram-@rodrigo.gandarela-8566FF?style=for-the-badge&labelColor=0D1117)](https://www.instagram.com/rodrigo.gandarela)
+[![Instagram](https://img.shields.io/badge/Instagram-@rodrigo.gandarela-8566FF?style=for-the-badge&labelColor=0D1117)](https://www.instagram.com/dev.rodrigog)
 
 <sub>Para assunto de trabalho, me chame no LinkedIn.</sub>
 
