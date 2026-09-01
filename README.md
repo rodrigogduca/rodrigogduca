@@ -23,7 +23,7 @@ Sou **Engenheiro da Computação** pelo **Universidade SENAI CIMATEC** e bachare
 
 Trabalho como **Dev Full Stack & Designer** — gosto de projetos em que dá para cuidar do banco até o pixel. Fora do editor, estou em três frentes de comunidade:
 
-- ☁️ &nbsp;Líder do **AWS Student Builder Group**
+- ☁️ &nbsp;Core Team Member do **AWS Student Builder Group**
 - 🎯 &nbsp;Diretor de Marketing do **Clube de Programação**
 - 🌐 &nbsp;Webmaster do **IEEE UFBA**
 
